@@ -1,8 +1,9 @@
-# deskapp
+# GenChat ai app by @Ahmed_idriss.dev 
 
-An Electron application with React and TypeScript
+An Electron application with React and TypeScript built to help developer to fix problems quikly without need to open any browser 
 
 ## Recommended IDE Setup
+by Electron commuinty 
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
