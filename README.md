@@ -1,7 +1,7 @@
 # GenChat ai app by @Ahmed_idriss.dev 
 
 An Electron application built with React and TypeScript, designed to help developers resolve issues quickly without needing to open a browser.
-
+<img src="https://ibb.co/DQ7szxt" alt="GenChat"/>
 ## Recommended IDE Setup
 by Electron commuinty 
 
